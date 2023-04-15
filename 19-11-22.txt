@@ -1,0 +1,1 @@
+https://username:userpwd@github.com/user/repo.git
